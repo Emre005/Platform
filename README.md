@@ -1,5 +1,3 @@
-# Platform
-Platform with pyhon
 
 # Pygame Platformer Oyunu
 
